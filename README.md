@@ -1,3 +1,5 @@
-![digitalaccess](https://github.com/jshuffield6772/digital-access/blob/main/images/cover.jpeg?raw=true.images/cover.jpg)
+![cover](https://github.com/jshuffield6772/digital-access/blob/main/images/cover.jpeg?raw=true)
 # The Impact of COVID-19 On Digital Learning
-This Python project examines student digital learning records (i.e. "engagement data") from 55 school districts for all of 2020 (the first year of the COVID pandemic) in the states of Illinois, New York, and Utah.  
+COVID-19's impact on the world and U.S. economies continues to be a subject of analysis, but less is understood about how the virus has impacted education. Media stories covering this dimension of the pandemic have focused on the politics of school closures, openings, and mask mandates, and in some cases the transition from in-class instruction to distance learning via Zoom or other platforms--but there has been no in-depth analysis of the impacts on schoolchildren of the change in venues and instruction methods.
+
+To begin to address the need for "hard data" on COVID's impact on education, LearnPlatform, a company devoted to increasing accessibility to computer and web-based education tools for all students in the U.S., has released data for 233 districts in 22 states and the District of Columbia, along with a call for analysts to use the data in combination with data from other sources, to assess how the pandemic impacted education in 2020.
