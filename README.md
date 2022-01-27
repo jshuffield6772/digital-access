@@ -6,4 +6,4 @@ To begin to address the need for "hard data" on COVID's impact on education, Lea
 
 This project explores a smaller subset of this data--55 school districts in the states of Illinois, New York, and Utah, and combines it with data from the COVID-19 State Policy Database and statistics from the KIDS COUNT project.  I completed the project in a Jupyter notebook, which also has a full introduction.  
 
-[Project Notebook]
+[Project Notebook](https://colab.research.google.com/github/jshuffield6772/digital-access/blob/main/Impact-of-COVID-on-digital-access.ipynb)
