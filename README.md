@@ -1,4 +1,7 @@
-![cover](https://github.com/jshuffield6772/digital-access/blob/main/images/cover.jpeg?raw=true)
+![cover](https://github.com/jshuffield6772/digital-access/blob/main/images/cover.jpeg)
+
+_When schools moved their classes online during the pandemic, how did this move affect poorer districts, poorer students, and students of color? This study explores inequities in access to digital learning in the states of Illinois, New York, and Utah._
+
 # The Impact of COVID-19 On Digital Learning
 COVID-19's impact on the world and U.S. economies continues to be a subject of analysis, but less is understood about how the virus has impacted education. Media stories covering this dimension of the pandemic have focused on the politics of school closures, openings, and mask mandates, and in some cases the transition from in-class instruction to distance learning via Zoom or other platforms--but there has been no in-depth analysis of the impacts on schoolchildren of the change in venues and instruction methods.
 
