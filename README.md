@@ -38,7 +38,7 @@ LearnPlatform released the following data:
   - combined local and federal annual per pupil spending
 > **Anonymized Data:** The districts are anonymized using a numeric district ID, and demographics above are expressed as ranges of percents (0-20%, 20%-40%, etc.), or ranges of dollar amounts in thousands (4000 - 6000, etc.), decreasing the likelihood that a given district can be identified from this information.
 
-- A Products File listing over 300 applications most widely used in the districts that LearnPlatform services, together with
+- A Products File listing the 372 applications most widely used in the districts that LearnPlatform services, together with
   - the target audience for each app (K-12, Higher Ed, Corporate, or All)
   - the purpose of the app (Curriculum & Learning, Classroom Management, School & District Operations, or All)
   - LearnPlatform's numeric ID, the app name, and the corporation that owns the app.
@@ -79,3 +79,5 @@ Map the health of digital learning in the U.S. during the pandemic by exploring:
 - **Incomplete data:** The LearnPlatform data is not comprehensive; for example, many districts did not report all demographics. Also, the engagement data for most districts contains data for 1000s of applications, but of these, only 372 are identifiable via LearnPlatform's Products File. This incomplete data already suggests options for reducing the size of the datasets.
 - **Time Series resolution:** The Kid's Count statistics were collected each week from the end of April 2020 to the present. The district engagement files begin in January 2020 and continue through the end of December 2020, and that data is collected daily, so coordinating these two elements will require some resampling.
 - **Python/Jupyter Notebook:** Springboard requires the bulk of the analysis to be done using Python, in a Jupyter notebook; however, once my analysis has moved from the exploratory and descriptive phases to the inferential, I plan to streamline the presentation and visualizations using Tableau.
+
+[See the Project Notebook/Code](https://colab.research.google.com/github/jshuffield6772/digital-access/blob/main/Impact-of-COVID-on-digital-access.ipynb)
