@@ -1,4 +1,4 @@
-![cover](https://github.com/jshuffield6772/digital-access/blob/main/images/cover.jpeg)
+![cover](https://github.com/jshuffield6772/digital-access/blob/main/images/primage.jpeg)
 
 _When schools moved their classes online during the pandemic, how did this move affect poorer districts, poorer students, and students of color? This study explores inequities in access to digital learning in the states of Illinois, New York, and Utah._
 
