@@ -7,15 +7,19 @@ COVID-19's impact on the world and U.S. economies continues to be a subject of a
 
 To begin to address the need for "hard data" on COVID's impact on education, LearnPlatform, a company devoted to increasing accessibility to computer and web-based education tools for all students in the U.S., has released data for 233 districts in 22 states and the District of Columbia, along with a call for analysts to use the data in combination with data from other sources, to assess how the pandemic impacted education in 2020.
 
-This project explores a smaller subset of this data--55 school districts in the states of Illinois, New York, and Utah, and combines it with data from the COVID-19 State Policy Database and statistics from the KIDS COUNT project.  The link below opens the project notebook, and I have included the introduction here as well.  
+This project explores a smaller subset of this data--55 school districts in the states of Illinois, New York, and Utah, and combines it with data from the COVID-19 State Policy Database and statistics from the KIDS COUNT project.  The links below open the project notebook and Tableau presentation, and I have included the introduction below as well.  
 
 [PROJECT NOTEBOOK](https://colab.research.google.com/github/jshuffield6772/digital-access/blob/main/Impact-of-COVID-on-digital-access.ipynb)
 
-LearnPlatform released the data on Kaggle, as part of a competition they sponsored:
-> Link: https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning/overview
+[TABLEAU PRESENTATION](https://public.tableau.com/views/TheImpactofCOVID-19onDigitalLearning/COVIDandEducation?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+---
 
 ## The Challenge
+
+LearnPlatform released the data on Kaggle, as part of a challenge they sponsored:
+> Link: https://www.kaggle.com/c/learnplatform-covid19-impact-on-digital-learning/overview
+
 We challenge the Kaggle community to explore
 - the state of digital learning in 2020 and
 - how the engagement of digital learning relates to factors such as district demographics, broadband access, and state/national level policies and events.
